@@ -1,3 +1,3 @@
-FROM dockersamples/static-siet
+FROM dockersamples/static-site
 ENV AUTHOR="HIDE"
 
